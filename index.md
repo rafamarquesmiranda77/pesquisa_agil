@@ -34,4 +34,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Sobre o pesquisador
 
-Me chamo Rafael Marques Miranda sou aluno de mestrado da Pós-Graduação em Informática Aplicada (PPGIA) da Universidade Federal Rural Pernambuco (UFRPE)[contato](marquesmiranda.r@gmail.com  -  87-999534952) or [Lates](http://lattes.cnpq.br/6488307420823162).
+Me chamo Rafael Marques Miranda sou aluno de mestrado da Pós-Graduação em Informática Aplicada (PPGIA) da Universidade Federal Rural Pernambuco (UFRPE) 
+email marquesmiranda.r@gmail.com  - telafone 87-999534952 - Lates http://lattes.cnpq.br/6488307420823162.
