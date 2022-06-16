@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Adaptações de papéis em desenvolvimento de software ágil para equipes de Larga-escala e distribuídas
 
 You can use the [editor on GitHub](https://github.com/rafamarquesmiranda77/pesquisa_agil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -32,6 +32,6 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafamarquesmiranda77/pesquisa_agil/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Sobre o pesquisador
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Me chamo Rafael Marques Miranda sou aluno de mestrado da Pós-Graduação em Informática Aplicada (PPGIA) da Universidade Federal Rural Pernambuco (UFRPE)[contato](marquesmiranda.r@gmail.com  -  87-999534952) or [Lates](https://support.github.com/contact) and we’ll help you sort it out.
