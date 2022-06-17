@@ -2,13 +2,10 @@
 
 You can use the [editor on GitHub](https://github.com/rafamarquesmiranda77/pesquisa_agil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+## Markdown
 
 ~~~javascript <script type="text/javascript" src="https://form.jotform.com/jsform/221335078938664"></script>~~~
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
 
