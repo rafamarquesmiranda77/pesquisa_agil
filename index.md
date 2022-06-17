@@ -9,7 +9,7 @@ Contribua com sua esperiencia em desenvolvimento tenha em mente suas experiênci
 
 ### FREVO - Fostering Research on managEment and InnoVatiOn
 
-A pagina do grupo de pequisa é [Lattes](cnpq.br/dgp/espelhogrupo/8329438431937905). Realizado na Universidade Federal Rural de Pernambuco - UFRPE no Programa de pós graduação de infomática aplicada PPGIA
+A pagina do grupo de pequisa é [FREVO](cnpq.br/dgp/espelhogrupo/8329438431937905). Realizado na Universidade Federal Rural de Pernambuco - UFRPE no Programa de pós graduação de infomática aplicada PPGIA
 
 ### Sobre o pesquisador
 
