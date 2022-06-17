@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/221335078938664"></script>
+'''<script type="text/javascript" src="https://form.jotform.com/jsform/221335078938664"></script>'''
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
