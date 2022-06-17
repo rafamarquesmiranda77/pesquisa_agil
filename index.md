@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rafamarquesmiranda77/pesqu
 
 ## Markdown
 
-~~~javascript <script type="text/javascript" src="https://form.jotform.com/jsform/221335078938664"></script>~~~
+~~~ <script type="text/javascript" src="https://form.jotform.com/jsform/221335078938664"></script>~~~
 
 
 ### Jekyll Themes
