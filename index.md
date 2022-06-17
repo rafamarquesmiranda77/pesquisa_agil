@@ -1,6 +1,6 @@
 ## Adaptações de papéis em desenvolvimento de software ágil para equipes de Larga-escala e distribuídas
 
-Contribua com sua esperiencia em desenvolvimento tenha em mente suas experiências dentro de um projeto ágil, de larga escala e/ou com membros distribuídos, que você participa ou participou 3 minutos para responder o Survey.
+Contribua com sua esperiência em desenvolvimento tenha em mente sua vivência dentro de um projeto ágil, de larga escala e/ou com membros distribuídos, que você participa ou participou media de 3 minutos para responder o Survey.
 
 ## Survey
 
