@@ -1,6 +1,6 @@
 ## Adaptações de papéis em desenvolvimento de software ágil para equipes de Larga-escala e distribuídas
 
-You can use the [editor on GitHub](https://github.com/rafamarquesmiranda77/pesquisa_agil/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contribua com sua esperiencia em desenvolvimento tenha sempre em mente suas experiências dentro de um projeto ágil, de larga escala e/ou com membros distribuídos, que você participa ou participou 3 minotos para responder o Survey.
 
 ## Markdown
 
